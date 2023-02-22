@@ -1,10 +1,11 @@
-#include "main.h"
+include "main.h"
 
 /**
- *  main - Entry point
- *
- *  Return Always 0
- */
+* main-Print_putchar
+*
+* Return:Always0
+*/
+
 int main(void)
 {
 char str[] = "_putchar";
